@@ -1,4 +1,4 @@
-# AAIT-HW2
+# AAIT - Homework 2
 
 # Project dependencies
 Pytorch version **1.12.1+cu113** (at least, should work for newer versions as well).
